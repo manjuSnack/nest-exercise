@@ -1,3 +1,8 @@
+/*
+ * Process
+ * app.controller.ts → app.service.ts → app.module.ts → main.ts
+ */
+
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 
